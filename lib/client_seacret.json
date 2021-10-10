@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ruby-excel-practice",
+  "private_key_id": "22d2fd17066c519d1f26988fef0821273266f43d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClMG2N85WXu7AH\nPTi1912DNLO6MOoNf38RqoMs0tMoBOmfw10uMyztK6RhaUdEUhGpaoFYeUbTrG4f\nTCapLpzZ/aZG/r+Ta/lXbr5b0+ojr+1VdRGE8OkzkOcER2FtJ7uZlX2vuCvFwR1u\nirqx++mxk5yB7iT3pWvT6kKu6x5mO1QcKdbmHEVgO/1k5smUemKKmK77z2k/sYwz\nLepC+mX4ib8nILubczngoO1NAQkTC2cy8it7i3FrU/djyPHxeyWKLT8vGcXYNFTG\nSAjtzslljoOKNj/GtA9EnGGMbHAVtB93nAzGVmjTbmn8E3GrgroYmruUt+Bqz2qS\nJLYt1/IrAgMBAAECggEAHE893z95Ch10z/DKiMjhYkyEZqreWbzZao4l1+czn96j\nqSkijXngv66kh7sypv9HnpitnRt/q2QYJU34LDNcVzGUrwMWku3EuBq3Dea18DLE\nwkoDXByrYpZ5OO8Av+O4z1viw9wUyFnNsPWehEUvairpfgzxke1sGs/BaNfLiGpo\n+exyTJROxortLcHQI/sQYPrdH2moUN9F1h8wDeAxLzBL2gESOCGb9kMZO41AvUj2\ngKF/ifyRUFrP6AICJHLP0niIuSXiJOOVSMu18c/RV8+z+eLWfqtyGpCaZ/2ZWg60\nbjqo7wr2Iou0R5SX9eOgU/BbJcAFQi6D3+Nn7E46cQKBgQDVTvazI8SOqy92UMSt\nk/Ad+gQSKlYpEehDQyVjR8yj4ZoizwRePZN3ZyHmAvQmOKQUDmPtO5gIbnbNdG2X\ntL6otTtQIIzZY3s/GJpluxILv/2YWGvZtvhbqW+IJT+63fJonvTpR9f0jFDcA42s\nqOEtJep+UwfSVDgoLJWO2xE8OwKBgQDGQAhouAmpiUgdcKxUJWRMPrmmH3cLw/2I\nf5g+qEwyZ65GCBA71WHB9AqluGFfkHsuruXg5rmcjCBud2M8RtuAtiqU3FLXIHmI\no0vQ0WTEfjxTxFTP5pfXhxnorBbaWwE9HDWaUizftm3NK12EIVql2/t9EDNAZjZL\n51MwfiLy0QKBgQCE+i0hkHLA3kdAYym5bDiM94gCKxJ7mAZLqFhuhBw3LjWA7b2z\nYn/EOC8RzVWXXkgrmK0C/9vPpc26V5LauHsDgbfwQ9qKy1HSC+x07yJY4N+fUcAq\ngb5ipkY5gb8xJ5wvTKkxpPAkLDVcc3qm4ME//BsrlWeS354CrYiu/jLIcQKBgGOR\nd2e4vsmSNFDs7PAaE4SjoDQJ641SMvyiMMGPXy2VmxZ7KEQUyFNUESDoOKd5dhSd\nLMFGwAQa8JLqjUGRyN6dH0fCXCzFl6SDdyl6cSSqzfu4SGxeQPazWNTd0WB7gmTB\nzT4jdXwqMH1yATbCVbelg2ptf4AhlbWLieF6CG1xAoGBALIZsWvxauf/xTSmUunD\nmezUfvtKi/ThnsDh5zztKeePmVenM9seTq++tyyaq87I4t8y1iKXeHyPqWWMW4Je\nsd3/BlKHOhR3MDm8CTEI+/k3TgqmuX3oXdwX5WD9uschOvU+GBSjL05zaQ6+S8jl\nm2NPjpjocM6O1grBztQf1hAP\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheetsruby@ruby-excel-practice.iam.gserviceaccount.com",
+  "client_id": "115182283844651401669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsruby%40ruby-excel-practice.iam.gserviceaccount.com"
+}
+
